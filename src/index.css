@@ -170,12 +170,8 @@ body {
   .quiz-blocks {
     padding: 5px 10px;
     width: 80%;
-    color: red;
   }
   .final-block h1 {
     font-size: 45px;
-  }
-  .quiz-global-blocks {
-    color: red;
   }
 }
