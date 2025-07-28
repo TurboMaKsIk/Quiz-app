@@ -27,11 +27,11 @@ function App() {
     if (procent >= 0 && procent <= 20) {
         return 'Всё Плохо(((';
     } else if (procent > 20 && procent <= 40) {
-        return 'Нормально';
+        return 'Плохо';
     } else if (procent > 40 && procent <= 60) {
-        return 'Хорошо!';
+        return 'Нормально';
     } else if (procent > 60 && procent <= 80) {
-        return 'Очень Хорошо!!';
+        return 'Хорошо!!';
     } else {
         return 'Отлично!!!)))';
     }
